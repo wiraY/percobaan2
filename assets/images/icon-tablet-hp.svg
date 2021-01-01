@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="104" height="104" viewBox="0 0 104 104">
+  <g id="Group_34" data-name="Group 34" transform="translate(-118 -2413)">
+    <rect id="Rectangle_18" data-name="Rectangle 18" width="104" height="104" transform="translate(118 2413)" fill="none"/>
+    <g id="Group_30" data-name="Group 30" transform="translate(-12 548)">
+      <g id="Group_8" data-name="Group 8" transform="translate(139.354 1888.354)" opacity="0.1">
+        <g id="Icon_feather-tablet" data-name="Icon feather-tablet" transform="translate(0 0)">
+          <path id="Path_1" data-name="Path 1" d="M12.354,3H50.477a6.354,6.354,0,0,1,6.354,6.354V60.184a6.354,6.354,0,0,1-6.354,6.354H12.354A6.354,6.354,0,0,1,6,60.184V9.354A6.354,6.354,0,0,1,12.354,3Z" transform="translate(-6 -3)" fill="#2a2929" stroke="#2a2929" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          <path id="Path_2" data-name="Path 2" d="M18,27h0" transform="translate(7.415 23.831)" fill="#2a2929" stroke="#2a2929" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Icon_feather-tablet-2" data-name="Icon feather-tablet" transform="translate(65.656 16.981)">
+          <path id="Path_1-2" data-name="Path 1" d="M9.412,3H29.881c1.884,0,3.412,2.084,3.412,4.656V44.9c0,2.571-1.527,4.656-3.412,4.656H9.412C7.527,49.557,6,47.473,6,44.9V7.656C6,5.084,7.527,3,9.412,3Z" transform="translate(-6 -3)" fill="#2a2929" stroke="#2a2929" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          <path id="Path_2-2" data-name="Path 2" d="M18,27h0" transform="translate(-4.354 10.246)" fill="#2a2929" stroke="#2a2929" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+      </g>
+      <g id="Group_7" data-name="Group 7" transform="translate(133 1882)">
+        <g id="Icon_feather-tablet-3" data-name="Icon feather-tablet">
+          <path id="Path_1-3" data-name="Path 1" d="M12.354,3H50.477a6.354,6.354,0,0,1,6.354,6.354V60.184a6.354,6.354,0,0,1-6.354,6.354H12.354A6.354,6.354,0,0,1,6,60.184V9.354A6.354,6.354,0,0,1,12.354,3Z" transform="translate(-6 -3)" fill="none" stroke="#2a2929" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          <path id="Path_2-3" data-name="Path 2" d="M18,27h0" transform="translate(7.415 23.831)" fill="none" stroke="#2a2929" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        </g>
+        <g id="Icon_feather-tablet-4" data-name="Icon feather-tablet" transform="translate(65.656 16.981)">
+          <path id="Path_1-4" data-name="Path 1" d="M9.412,3H29.881c1.884,0,3.412,2.084,3.412,4.656V44.9c0,2.571-1.527,4.656-3.412,4.656H9.412C7.527,49.557,6,47.473,6,44.9V7.656C6,5.084,7.527,3,9.412,3Z" transform="translate(-6 -3)" fill="none" stroke="#2a2929" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          <path id="Path_2-4" data-name="Path 2" d="M18,27h0" transform="translate(-4.354 10.246)" fill="none" stroke="#2a2929" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="104" height="104" viewBox="0 0 104 104">
+  <g id="Group_36" data-name="Group 36" transform="translate(-351 -2413)">
+    <rect id="Rectangle_20" data-name="Rectangle 20" width="104" height="104" transform="translate(351 2413)" fill="none"/>
+    <g id="Group_32" data-name="Group 32" transform="translate(-388 551)">
+      <path id="Icon_ionic-md-laptop" data-name="Icon ionic-md-laptop" d="M69.189,60.189a6.769,6.769,0,0,0,6.75-6.75V11.25a6.77,6.77,0,0,0-6.75-6.75H11.813a6.77,6.77,0,0,0-6.75,6.75V53.439a6.769,6.769,0,0,0,6.75,6.75H0c0,3.713,10.125,5.063,15.188,5.063H65.814C70.876,65.251,81,63.9,81,60.189Z" transform="translate(754 1883.5)" fill="#2a2929" opacity="0.1"/>
+      <path id="Icon_ionic-md-laptop-2" data-name="Icon ionic-md-laptop" d="M69.189,60.189a6.769,6.769,0,0,0,6.75-6.75V11.25a6.77,6.77,0,0,0-6.75-6.75H11.813a6.77,6.77,0,0,0-6.75,6.75V53.439a6.769,6.769,0,0,0,6.75,6.75H0c0,3.713,10.125,5.063,15.188,5.063H65.814C70.876,65.251,81,63.9,81,60.189ZM8.813,9.25H71.189V56.282H8.813Z" transform="translate(747 1875.5)" fill="#2a2929"/>
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="2" cy="2" r="2" transform="translate(785 1934)" fill="#fbfbfb"/>
+    </g>
+  </g>
+</svg>
